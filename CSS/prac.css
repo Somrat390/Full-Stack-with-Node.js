@@ -1,0 +1,18 @@
+#box{
+    background-color: lightblue;
+}
+.heading{
+    color: red;
+}
+
+button{
+    background-color: wheat;
+}
+
+p{
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+}

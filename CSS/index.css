@@ -1,0 +1,31 @@
+ /* comment in CSS */
+ 
+ /*h1 {
+            color: #b61313;
+        }
+        p{
+            color: rgb(99, 58, 107);
+        }
+*/
+#heading1{
+    color: #312424;
+    }
+#heading2{
+        color: #f81515;
+}
+ button{
+    color: #665a31;
+ }
+
+ body{
+    background-color: #e9e8ee;
+ }
+
+ button{
+    background-color: aquamarine;
+ }
+
+ p{
+    color: #3f3a3a;
+ }
+
