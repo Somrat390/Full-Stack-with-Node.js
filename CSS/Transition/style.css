@@ -1,0 +1,20 @@
+div{
+    height: 100px;
+    width: 100px;
+    background-color: aquamarine;
+    border: 2px solid black;
+    /* transition-property: all;
+    transition-duration: 2s;
+    transition-timing-function: steps(5);
+    transition-delay: 2s; */
+    transition: all 2s ease-in 1s;
+}
+
+div:hover{
+    background-color: bisque;
+    color: aquamarine
+}
+
+div:active{
+    background-color: blueviolet;
+}
